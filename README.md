@@ -8,7 +8,6 @@ i think.
 
 else do `python -m pip install` on the missing packages
 
-create an `images` folder
 
 run `python sc.py`
 
