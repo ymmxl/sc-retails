@@ -11,6 +11,5 @@ else do `python -m pip install` on the missing packages
 
 run `python sc.py`
 
-input link.
 
 written by yours truly. ymmxl
