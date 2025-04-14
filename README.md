@@ -15,7 +15,7 @@ A script to scrape photos, item names and price from reknowned supremecommunity.
 
 ### See V1 in action :robot:
 
-![V1 working]("examples/sc-retails working video.gif")
+![V1 working](examples/sc-retails%20working%20video.gif)
 
 ### Requirements
 Python 3
