@@ -3,3 +3,5 @@ items.csv
 test.py
 sc_droplist.html
 sc2.py
+credentials.json
+token.json
